@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <!--First-->
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="mona_lisa_author">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">1503-1506</string>
+    <!--Second-->
+    <string name="ame_gothic">American Gothic</string>
+    <string name="ame_gothic_author">Grant Wood</string>
+    <string name="ame_gothic_year">1930</string>
+    <!--Third-->
+    <string name="madam_x">Portrait of Madame X</string>
+    <string name="madam_x_author">John Singer Sargent</string>
+    <string name="madam_x_year">1884</string>
+    <!--Forth-->
+    <string name="pearl_girl">Girl with a Pearl Earring</string>
+    <string name="pearl_girl_author">Johannes Vermeer</string>
+    <string name="pearl_girl_year">2020</string>
+</resources>
